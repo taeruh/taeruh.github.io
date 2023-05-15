@@ -1,1 +1,1 @@
-[Github Pages Website](https://jruh7.github.io/)
+[Github Pages Website](https://taeruh.github.io/)
