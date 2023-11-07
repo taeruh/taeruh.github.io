@@ -1,1 +1,1 @@
-[Github Pages Website](https://taeruh.github.io/)
+[Go to the Website](https://taeruh.github.io/)
